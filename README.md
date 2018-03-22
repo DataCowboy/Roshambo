@@ -1,2 +1,2 @@
 # Roshambo
-Simple Paper Rock Scissors Game
+The computer will no longer cheat. (Random selection fixed.)
